@@ -7,6 +7,8 @@ android {
     namespace 'com.mirhina.mixapp'
     compileSdk 33
 
+    compileSdkPreview "UpsideDownCake"
+
     defaultConfig {
         applicationId "com.mirhina.mixapp"
         minSdk 16
